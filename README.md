@@ -104,5 +104,5 @@ research-publication-trend-analyzer/
 ## 👥 6. Đóng góp & Tác giả (Credits)
 
 - **Dự án:** Ứng dụng phân tích dữ liệu chuyên ngành Lập trình Di động (PRM393).
-- **Phát triển chính:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)).
+- **Thành viên đóng góp:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)).
 - **Nguồn dữ liệu:** Được hỗ trợ bởi nền tảng dữ liệu mở khoa học [OpenAlex](https://openalex.org/).
